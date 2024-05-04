@@ -66,6 +66,10 @@ form img
     font-size: 12px;
 }
 
+.makeka i {
+    cursor: pointer;
+}
+
 
 
 .btn
